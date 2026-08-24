@@ -20,7 +20,7 @@ vals = {}
 for g in grass["grass"]:
     v = g["value"]
     vals[g["date"]] = v if isinstance(v, int) else 1
-WEEKS, CELL, GAP = 17, 13, 3
+WEEKS, CELL, GAP = 26, 12, 3
 start = today - dt.timedelta(days=today.weekday() + 1 + (WEEKS - 1) * 7)  # 일요일 시작
 start -= dt.timedelta(days=(start.weekday() + 1) % 7)
 def color(v):
