@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://solved.ac/profile/jiyesung1227"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung1227" alt="solved.ac 티어"/></a>
+  <a href="https://solved.ac/profile/jiyesung1227"><img src="https://mazassumnida.wtf/api/mini/generate_badge?boj=jiyesung1227" alt="solved.ac 티어"/></a>
 </p>
 
 ---
