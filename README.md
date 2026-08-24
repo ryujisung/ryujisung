@@ -68,10 +68,5 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ryujisung&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryujisung&layout=compact&hide_border=true&theme=default&langs_count=8" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ryujisung&hide_border=true&theme=default" alt="streak"/>
+  <img src="https://ghchart.rshah.org/2da44e/ryujisung" alt="Contribution graph" width="100%"/>
 </p>
