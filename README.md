@@ -1,35 +1,33 @@
-<h1 align="center">Hi, I'm Jisung Ryu 👋</h1>
+<h1 align="center">안녕하세요, 류지성입니다 👋</h1>
 
 <p align="center">
-  <b>AI Engineer in training — LLM · Fine-tuning · RL</b><br/>
-  SW Maestro 17th (AI track) · Sejong Univ. Computer Science · ex-Android developer
+  <b>AI 엔지니어를 목표로 하는 개발자 — LLM · 파인튜닝 · 강화학습</b><br/>
+  소프트웨어 마에스트로 17기 (AI) · 세종대학교 컴퓨터공학과 · Android 개발자 출신
 </p>
 
 <p align="center">
-  <a href="https://north-journey-888.notion.site"><img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion portfolio"/></a>
-  <a href="https://solved.ac/profile/jiyesung1227"><img src="https://img.shields.io/badge/solved.ac-jiyesung1227-1E90FF?style=flat-square" alt="solved.ac"/></a>
-  <a href="https://github.com/acttub"><img src="https://img.shields.io/badge/Building-Acttub-FF6B6B?style=flat-square&logo=github&logoColor=white" alt="Acttub"/></a>
+  <a href="https://solved.ac/profile/jiyesung1227"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung1227" alt="solved.ac 티어"/></a>
 </p>
 
 ---
 
-### 🧭 What I'm doing now
+### 🧭 지금 하는 것
 
-- **Acttub** — AI acting coach. Facial-expression scoring (HSEmotion), video understanding, LLM-based coaching, similar-scene retrieval with multimodal RAG.
-- Studying **LLM internals + RL** — the long game is *LLM + RL → general intelligence*.
-- Started as an Android dev (Kotlin), switched to AI. Still ship the mobile side when needed (React Native / Expo).
+- **Acttub** — AI 연기 코치. 표정 분석(HSEmotion), 영상 이해, LLM 기반 코칭, 멀티모달 RAG로 유사 장면 검색.
+- **LLM 내부 구조 + 강화학습** 공부 중 — 장기 목표는 *LLM + RL → 범용 인공지능*.
+- Android(Kotlin)로 시작해서 AI로 전향. 필요하면 모바일(React Native / Expo)도 같이 만듭니다.
 
-### 🧠 AI experience
+### 🧠 AI 경험
 
-| Area | What I've actually done |
+| 분야 | 해본 것 |
 |---|---|
-| **LLM fine-tuning** | LoRA on HuggingFace, 4-bit / 8-bit training with bitsandbytes, data & hyperparameter tuning for output quality |
-| **Quantization** | Shrinking model memory / compute while keeping accuracy, for real serving |
-| **RL** | DQN agent for Atari Breakout (Python + Unity) |
-| **CNN** | Trash-classification web app, sign-language recognition |
-| **Multimodal / RAG** | Expression + audio (CLAP) embeddings for similar-video search |
+| **LLM 파인튜닝** | HuggingFace 기반 LoRA, bitsandbytes 4bit / 8bit 양자화 학습, 데이터·학습 파라미터에 따른 출력 품질 실험 |
+| **모델 경량화** | Quantization으로 메모리·연산량 줄이면서 성능 유지 — 실제 서비스 환경 관점에서 탐구 |
+| **강화학습** | Atari Breakout DQN 에이전트 (Python + Unity) |
+| **CNN** | 쓰레기 분류 웹, 수화 인식 서비스 |
+| **멀티모달 / RAG** | 표정 + 오디오(CLAP) 임베딩으로 유사 영상 검색 |
 
-### 🛠 Stack
+### 🛠 기술 스택
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -44,29 +42,29 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 </p>
 
-### 📦 Projects
+### 📦 프로젝트
 
-| Project | Period | Role / Stack | Note |
+| 프로젝트 | 기간 | 역할 / 스택 | 비고 |
 |---|---|---|---|
-| [Acttub](https://github.com/acttub/acttub-platform) | 2026 – | AI · Python, PyTorch, FastAPI, RN | SW Maestro 17th team project — AI acting coach |
-| Atari Breakout DQN | 2024.07 | Python, DQN, Unity | Reinforcement-learning agent from scratch |
-| [도담도담](https://github.com/ryujisung/dodamdodam) | 2023.07 – 11 | Android · Kotlin, XML | Native Android app |
-| [Membeder](https://github.com/ryujisung/Membeder-Android) | 2022 | Android · Kotlin | Team-matching app — 🥉 Sunrin Digital Content Contest |
-| [boj](https://github.com/ryujisung/boj) | ongoing | C++ | Baekjoon problem solving (auto-pushed) |
+| [Acttub](https://github.com/acttub/acttub-platform) | 2026 – | AI · Python, PyTorch, FastAPI, RN | 소프트웨어 마에스트로 17기 팀 프로젝트 — AI 연기 코치 |
+| Atari Breakout DQN | 2024.07 | Python, DQN, Unity | 강화학습 에이전트 직접 구현 |
+| [도담도담](https://github.com/ryujisung/dodamdodam) | 2023.07 – 11 | Android · Kotlin, XML | 네이티브 Android 앱 |
+| [Membeder](https://github.com/ryujisung/Membeder-Android) | 2022 | Android · Kotlin | 팀 매칭 앱 — 🥉 선린 디지털 콘텐츠 개발대회 |
+| [boj](https://github.com/ryujisung/boj) | 진행 중 | C++ | 백준 문제 풀이 (BaekjoonHub 자동 푸시) |
 
-### 🏆 Awards
+### 🏆 수상
 
-- 🥈 **2nd place** — SW Coding Contest, Sejong University (2025)
-- 🥈 **Silver** — Algorithm Festival, Sunrin Internet High School (2023)
-- 🥉 **Bronze** — Sunrin Digital Content Development Contest (2022)
+- 🥈 **2등** — SW코딩 경시대회, 세종대학교 (2025)
+- 🥈 **은상** — 알고리즘 페스티벌, 선린인터넷고등학교 (2023)
+- 🥉 **동상** — 선린 디지털 콘텐츠 개발대회 (2022)
 
-### 🎓 Education
+### 🎓 학력
 
-- **Sejong University** — B.S. Computer Science (GPA 4.15 / 4.5, top of department, merit scholarship)
-- **Sunrin Internet High School** — Software Dept.
+- **세종대학교** 컴퓨터공학과 재학 (학점 4.15 / 4.5, 학과 수석, 성적 우수 장학금)
+- **선린인터넷고등학교** 소프트웨어과 졸업
 
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2da44e/ryujisung" alt="Contribution graph" width="100%"/>
+  <img src="https://ghchart.rshah.org/2da44e/ryujisung" alt="기여 그래프" width="100%"/>
 </p>
