@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://solved.ac/profile/jiyesung1227"><img src="./badges/solved.svg" alt="solved.ac 티어·스트릭"/></a>
+  <a href="https://solved.ac/profile/jiyesung1227"><img src="https://raw.githubusercontent.com/ryujisung/ryujisung/main/badges/solved.svg?v=2" alt="solved.ac 티어·스트릭"/></a>
 </p>
 
 ---
