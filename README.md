@@ -12,14 +12,7 @@
 
 
 
-[![류지성 GitHub 통계](https://github-stats-extended.vercel.app/api?username=ryujisung)](https://github.com/stats-organization/github-stats-extended)
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/ryujisung"
-    width="600"
-    height="300"
-  />
-</a>
+[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung1227)](https://solved.ac/profile/jiyesung1227)
 
 
 # 프로젝트
@@ -96,6 +89,3 @@
 ## 웹
 ![Next.js 뱃지](https://img.shields.io/badge/Next.js-000000?logo=Nextdotjs&logoColor=white)
 ![FastAPI 뱃지](https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white)
-
-## 알고리즘
-[![solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyesung1227)](https://solved.ac/profile/jiyesung1227)
